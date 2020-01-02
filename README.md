@@ -19,4 +19,4 @@ The savings are due to the bits required to represent the Delta
 
 4 Bit = (9*8)-((4*9)+(4*8) == 72 - 68 = 4 Bits saved 1 bits
 
-Obvioulsy will only work id the orded list improves detla to aleast 4 bits
+Obvioulsy will only work if the orded list improves detla to aleast 4 bits
