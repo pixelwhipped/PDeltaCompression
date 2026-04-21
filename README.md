@@ -1,4 +1,8 @@
 # PDeltaCompression
+[![Last commit](https://img.shields.io/github/last-commit/pixelwhipped/PDeltaCompression)](https://github.com/pixelwhipped/PDeltaCompression/commits/main)
+![GitHub Sponsor](https://img.shields.io/github/sponsors/pixelwhipped?label=Sponsor&logo=GitHub)
+[![patreon.com/pixelwhipped](https://img.shields.io/badge/patreon-grey?logo=patreon)](https://www.patreon.com/15682673/join)  
+
 Experimental Compression Concept
 
 Proof of cencept, for a compression algorithm.
